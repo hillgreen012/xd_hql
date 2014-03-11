@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Gong Xidong(sugon.com)
+Class-Path: ../lib/antlr-3.4-complete.jar
+Main-Class: XDSHql
+
